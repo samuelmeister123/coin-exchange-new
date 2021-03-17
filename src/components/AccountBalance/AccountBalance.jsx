@@ -3,8 +3,9 @@ import PropTypes from 'prop-types';
 import './AccountBalance.css';
 import styled from 'styled components';
 
-const Section = styled.section
-    'border: 1px solid red';
+const Section = styled.section`
+border: 1px solid red;
+`;
 
 
 
