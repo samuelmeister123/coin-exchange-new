@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types';
 import './AccountBalance.css';
-import styled from 'styled components'
+import styled from 'styled components';
 
 const Section = styled.section
     'border: 1px solid red';
