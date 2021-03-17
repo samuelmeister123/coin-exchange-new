@@ -5,9 +5,9 @@ import PropTypes from 'prop-types';
 export default class AccountBalance extends Component {
     render() {
         return (
-            <>
+            <section>
             $ {this.props.amount}
-            </>
+            </section>
 
         );
     }
