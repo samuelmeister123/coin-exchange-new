@@ -6,7 +6,6 @@ import AccountBalance from './components/AccountBalance/AccountBalance'
 
 
 
-
 function App() {
   return (
     <div className="App">
